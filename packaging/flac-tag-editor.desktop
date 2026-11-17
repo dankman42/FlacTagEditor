@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=FLAC Tag Editor
+GenericName=Audio Tag Editor
+Comment=Edit FLAC, MP3 and AIFF tags and cover art
+Exec=FlacTagEditor %f
+Icon=audio-x-generic
+Terminal=false
+Categories=AudioVideo;Audio;

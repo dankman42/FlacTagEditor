@@ -1,0 +1,16 @@
+# Build output
+build/
+build-*/
+out/
+*.o
+*.obj
+
+# Local TagLib builds
+taglib/
+taglib-install/
+
+# Release binaries live on the GitHub Releases page, not in git
+releases/
+*.exe
+*.tar.gz
+*.zip
